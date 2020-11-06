@@ -17,6 +17,9 @@ public class SelectArea : MonoBehaviour
         }else if(other.CompareTag("Audio"))
         {
             SceneManager.LoadScene("03-Textures-Audio");
+        }else if (other.CompareTag("Prototype2"))
+        {
+            SceneManager.LoadScene("04-Prototype2");
         }
         else
         {

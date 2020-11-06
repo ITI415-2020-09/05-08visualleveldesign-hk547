@@ -9,6 +9,14 @@ TagManager:
   - Terrain
   - Interiors
   - Audio
+  - points
+  - Score
+  - Cave
+  - Forest
+  - Camp
+  - Door
+  - End
+  - Prototype2
   layers:
   - Default
   - TransparentFX

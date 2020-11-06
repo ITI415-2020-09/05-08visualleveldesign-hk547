@@ -17,4 +17,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/03-Textures-Audio.unity
     guid: 583ff1af2a5d54886a9dba87a8f8cc9a
+  - enabled: 1
+    path: Assets/Scenes/04-Prototype2.unity
+    guid: ea4466d2d46864a45ad691c793814c11
   m_configObjects: {}
